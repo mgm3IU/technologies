@@ -44,7 +44,7 @@ can be used in both Windows and Linux systems alike. It is securable
 with different encryption capabilities, such as SSL and SSH File
 Transfer Protocols. The base form of the command is
 
-`ftp <source file> <destination directory>`.
+`ftp source file destination directory`.
 
 This command can be used with other flags
 that stipulate encryption, style of transportation, TCP port usage,
