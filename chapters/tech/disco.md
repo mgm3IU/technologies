@@ -9,6 +9,7 @@
 | keywords | Basic Programming Model and Runtime, SPMD, MapReduce |
 
 
+### Old Text
 
 a. Disco from discoproject.org represents an implementation of
 mapreduce for distributed computing that benefits end users by
@@ -51,7 +52,7 @@ OpenStack [@www-discodescribed-discoabstractionlayer].
 
 
 
-### mgm3IU's summary review (Mark Miller, FA18-523-63):
+### New Text
 
 Disco takes on the lofty task of attempting to be a substitute for a
 Hadoop Distributed File System in a light weight, Python implemented
