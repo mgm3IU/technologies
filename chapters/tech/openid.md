@@ -37,6 +37,10 @@ protection and privacy. Software such as OpenID is essential to ensure
 the integrity of data and protect against any attacks that may come
 from unwanted sources.
 
+> "The original OpenID authentication protocol was developed in May"
+> "2005 by Brad Fitzpatrick, creator of popular community website"
+> "LiveJournal, while working at Six Apart." [@OpenID_Fitzpatrick]
+
 The technology uses *end-user* interactions with a relying party with
 the intention of validating that user's identity. This service uses
 the internet and DNS services to identify source and destination of
